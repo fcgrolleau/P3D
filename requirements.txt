@@ -1,4 +1,4 @@
-viola
+voila
 ipywidgets==8.1.2
 matplotlib==3.8.0
 numpy==1.26.4
