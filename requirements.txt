@@ -1,5 +1,5 @@
-voila
-ipykernel
+ipykernel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f428_5tjvx/croot/ipykernel_1705933835534/work
+ipython==8.12.3
 ipywidgets==8.1.2
 matplotlib==3.8.0
 numpy==1.26.4
